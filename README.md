@@ -1,5 +1,8 @@
 ## Oiii eu sou a Carol!
 
+![image](https://github.com/user-attachments/assets/d57bbf89-001d-4214-b5d5-2724ed47262e)
+
+
   - 📊 Atualmente sou servidora publica.<br>
   - 🖥️ Migrando de carreira para Dev.<br>
   - 📚 Estudante de Engenharia da Computação.
