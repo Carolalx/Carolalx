@@ -16,7 +16,9 @@
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+<br><br>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="caroline-a-232a62333" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caroline-a-232a62333?trk=profile-badge">Caroline A.</a></div>
+              
   
 
 <!---
