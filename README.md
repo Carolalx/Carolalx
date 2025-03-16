@@ -4,6 +4,9 @@
 
 <h4> Então... chegou um certo dia em minha ocupação anterior, que me deparei com um local de morte de um rapaz, com pouco mais de 20 anos, recém casado, com uma filha bebe, comecei a rever meus conceitos sobre VIVER e resolvi correr atrás do que verdadeiramente me motiva, me inspira, e aqui estou eu... estudando!! Melhorando ou pelo menos tentando ser melhor! <p> E hoje sim, vivo sem pensar em como seria... o momento é pensar em como será! Vai que dá certo.. ouço bastante: "Ah meu Deus você é doida em deixar o funcionalismo público depois de 11 anos!" .. Acontece que prefiro tentar e fracassar, levantar e tentar novamente do que viver sem saber qual seria o resultado e, enquando o processo caminha, EVOLUO!</p> </h4><br><br>
 
+<h3> Mas por que área da computação??
+Bom... comecei lidando com planilhas de investimento pessoal, sempre procurei soluções para problemas complexos, gosto de tudo que me faça pensar e gosto ainda mais de obter o resulado esperado... quando percebi, já havia criado um dashboard de melhor distribuição da minha renda e de rebalanceamento de carteira. Depois passei a lidar com bancos de dados maiores e gostei da idéia de conseguir buscar diversos tipos de resultados lá dentro.</p> </h4><br><br>
+
 
 
 
