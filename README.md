@@ -66,13 +66,13 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 ## 🔗 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/caroline-a-232a62333" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
+  <a href="mailto:carolalxtt@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
-  <a href="https://github.com/SeuUsuario" target="_blank">
+  <a href="https://github.com/Carolalx" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" />
   </a>
 </p>
