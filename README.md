@@ -36,9 +36,10 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 
 ## 🗓️ Timeline da Carreira
 
-- **2012–2023:** Carreira estável no funcionalismo público  
+- **2003–2012:** Primeiros passos profissionais area administrativa 
+- **2013–2024:** Carreira estável no funcionalismo público  
 - **2023:** Decisão de mudar de carreira após reflexão pessoal  
-- **2023–Hoje:** Estudando Engenharia da Computação e migrando para Dev  
+- **2024–Hoje:** Estudando Engenharia da Computação e migrando para Dev  
 - **Hoje:** Desenvolvendo projetos próprios e aprendendo novas tecnologias  
 
 ---
