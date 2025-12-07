@@ -17,18 +17,66 @@ Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 1
 
 ---
 
-## 💻 Skills
+## 🛠️ Skills
+
+**Front-end & Web:**  
+HTML ░░░░░░░░░░ 90% 🔥🔥🔥🔥🔥🔥🔥🔥🔥  
+CSS ░░░░░░░░░░ 85% 🔥🔥🔥🔥🔥🔥🔥🔥  
+JavaScript ░░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥  
+
+**Programação & Lógica:**  
+Python ░░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥  
+C/C# ░░░░░░░░░░ 60% 🔥🔥🔥🔥🔥  
+
+**Ferramentas & Outros:**  
+Linux ░░░░░░░░░░ 80% 🔥🔥🔥🔥🔥🔥🔥🔥  
+VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥🔥🔥🔥🔥🔥🔥  
+
+---
+
+## 🗓️ Timeline da Carreira
+
+- **2012–2023:** Carreira estável no funcionalismo público  
+- **2023:** Decisão de mudar de carreira após reflexão pessoal  
+- **2023–Hoje:** Estudando Engenharia da Computação e migrando para Dev  
+- **Hoje:** Desenvolvendo projetos próprios e aprendendo novas tecnologias  
+
+---
+
+## 📂 Projetos
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| 💰 Dashboard Financeiro | Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](#) |
+| 🗃️ Gerenciador de Dados | Aplicação para manipulação de bancos de dados | [Ver Projeto](#) |
+| 🌐 Mini Site Portfólio | Meu primeiro site pessoal com HTML/CSS/JS | [Ver Projeto](#) |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,linux,visualstudio,vscode,anaconda" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-**Nível de Proficiência:**
+---
 
-```text
-HTML      ██████████ 90%
-CSS       █████████  85%
-JavaScript ████████   75%
-Python    ████████   75%
-C/C#      ██████     60%
-Linux     ████████   80%
+## 🔗 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  <a href="https://github.com/SeuUsuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+</p>
+
+---
+
+> 🚀 Estou pronta para aprender, crescer e transformar desafios em oportunidades!
+> 
