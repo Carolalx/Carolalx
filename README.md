@@ -56,10 +56,11 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carolalx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolalx&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Carolalx?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Carolalx?label=Stars&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-public-blue?style=for-the-badge)
+
+![Last Commit](https://img.shields.io/github/last-commit/Carolalx/Carolalx?style=for-the-badge)
 
 ---
 
