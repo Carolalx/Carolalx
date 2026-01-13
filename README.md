@@ -50,7 +50,7 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 |---------|-----------|------|
 | 💰 Dashboard Financeiro | Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](https://carolalx.github.io/educFinCah/) |
 | 🗃️ Gerenciador de Dados | Aplicação para manipulação de bancos de dados | [Ver Projeto](https://github.com/Carolalx/Projeto-Delphi---Vendas) |
-| 🌐 Mini Site Portfólio | Meu primeiro site pessoal com HTML/CSS/JS | [Ver Projeto](https://carolalx.github.io/ProjetoSiteAtiva/) |
+| 🌐 Site Portfólio | Site com HTML/CSS/JS | [Ver Projeto](https://ativafiltros.com.br) |
 
 ---
 
