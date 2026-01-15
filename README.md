@@ -74,9 +74,6 @@ Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 1
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/Carolalx?label=Followers&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Carolalx?label=Stars&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repos-public-blue?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Carolalx/Carolalx?style=for-the-badge)
 
 ---
