@@ -12,7 +12,8 @@ Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 1
 - 📚 Estudante de Engenharia da Computação  
 - 💡 Sempre buscando soluções criativas para problemas complexos  
 - 🔍 Curiosa por dados, análises, otimização de resultados e conversão  
-- 🛒 Experiência prática com **E-commerce, performance e automação de vendas**
+- 🛒 Experiência prática com **E-commerce, performance e automação de vendas**  
+- 🌐 Aprendizado e desenvolvimento com **Django** para aplicações web e back-end  
 
 ![Carol](https://github.com/user-attachments/assets/d57bbf89-001d-4214-b5d5-2724ed47262e)
 
@@ -25,16 +26,17 @@ HTML ░░░░░░░░░░ 90% 🔥🔥🔥🔥🔥🔥🔥🔥🔥
 CSS ░░░░░░░░░░ 85% 🔥🔥🔥🔥🔥🔥🔥🔥  
 JavaScript ░░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥  
 
-### **Programação & Lógica**
+### **Programação & Lógica / Back-end**
 Python ░░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥  
+Django ░░░░░░░░░░ 65% ✅  
 C / C# ░░░░░░░░░░ 60% 🔥🔥🔥🔥🔥  
 
 ### **E-commerce & Performance Digital**
-Plataformas (Shopify / WooCommerce) ░░░░░░░░░░ 80% 🛒🛒🛒🛒🛒🛒🛒🛒  
-Integrações de Pagamento & Frete ░░░░░░░░░░ 75% 💳💳💳💳💳💳💳  
-Otimização de Conversão (CRO) ░░░░░░░░░░ 70% 📈📈📈📈📈📈📈  
-SEO Técnico para E-commerce ░░░░░░░░░░ 70% 🔍🔍🔍🔍🔍🔍🔍  
-Analytics & Métricas (GA / KPIs) ░░░░░░░░░░ 65% 📊📊📊📊📊📊  
+Plataformas (Shopify / WooCommerce) ░░░░░░░░░░ 80% ✅  
+Integrações de Pagamento & Frete ░░░░░░░░░░ 75% ✅  
+Otimização de Conversão (CRO) ░░░░░░░░░░ 70% ✅  
+SEO Técnico para E-commerce ░░░░░░░░░░ 70% ✅  
+Analytics & Métricas (GA / KPIs) ░░░░░░░░░░ 65% ✅  
 
 ### **Ferramentas & Outros**
 Linux ░░░░░░░░░░ 80% 🔥🔥🔥🔥🔥🔥🔥🔥  
@@ -47,7 +49,7 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 - **2003–2012:** Primeiros passos profissionais na área administrativa  
 - **2013–2024:** Carreira estável no funcionalismo público  
 - **2023:** Decisão de mudar de carreira após reflexão pessoal  
-- **2024–Hoje:** Engenharia da Computação, desenvolvimento web e E-commerce  
+- **2024–Hoje:** Engenharia da Computação, desenvolvimento web, Django e E-commerce  
 - **Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, dados e vendas online**
 
 ---
@@ -55,11 +57,11 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 ## 📂 Projetos
 
 | Projeto | Descrição | Link |
-|--------|----------|------|
-| 💰 Dashboard Financeiro: em desenvolvimento, 72% ✅| Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](https://carolalx.github.io/educFinCah/) |
+|--------|-----------|------|
+| 💰 Dashboard Financeiro | Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](https://carolalx.github.io/educFinCah/) |
 | 🗃️ Gerenciador de Dados | Aplicação para manipulação de bancos de dados | [Ver Projeto](https://github.com/Carolalx/Projeto-Delphi---Vendas) |
-| 🛒 **Progresso em E-commerce:** em desenvolvimento, 72% ✅| Estrutura, layout, performance e otimização de loja virtual | [Ver Projeto](https://ativafiltros.com.br) |
-| 🌐 Site Portfólio  Site desenvolvido com HTML, CSS e JavaScript | [Ver Projeto](https://ativafiltros.com.br) |
+| 🛒 Projeto E-commerce **em andamento 72% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ativafiltros.com.br) |
+| 🌐 Site Portfólio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
 
 ---
 
@@ -88,4 +90,4 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 
 ---
 
-> 🚀 Pronta para aprender, crescer e criar soluções que unem **tecnologia, dados e resultados reais em E-commerce**.
+> 🚀 Pronta para aprender, crescer e criar soluções que unem **tecnologia, Django, dados e resultados reais em E-commerce**.
