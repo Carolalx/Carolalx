@@ -60,7 +60,7 @@ VSCode / Visual Studio / Anaconda ░░░░░░░░░░ 85% 🔥🔥�
 |--------|-----------|------|
 | 💰 Dashboard Financeiro | Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](https://carolalx.github.io/educFinCah/) |
 | 🗃️ Gerenciador de Dados | Aplicação para manipulação de bancos de dados | [Ver Projeto](https://github.com/Carolalx/Projeto-Delphi---Vendas) |
-| 🛒 Projeto E-commerce **em andamento 72% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ativafiltros.com.br) |
+| 🛒 Projeto E-commerce **em andamento 72% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
 | 🌐 Site Portfólio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
 
 ---
