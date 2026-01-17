@@ -67,7 +67,7 @@ Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 1
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | 💰 Dashboard Financeiro | Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](https://carolalx.github.io/educFinCah/) |
-| 🛒 Projeto E-commerce **em andamento 72% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
+| 🛒 Projeto E-commerce **em andamento 90% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
 | 🌐 Site Portfólio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
 
 ---
