@@ -3,7 +3,7 @@
 > "Prefiro tentar e fracassar do que viver sem saber o que poderia ser."
 
 ---
-Olá! Sou estudante de *"Engenharia da Computação** com foco em **desenvolvimento web e análise de dados**. Tenho experiência prática em projetos utilizando **HTML, CSS, JavaScript, Python e SQL**, e sou familiarizada com versionamento de código usando *Git/GitHub*.
+Olá! Sou estudante de <em>Engenharia da Computação</em> com foco em **desenvolvimento web e análise de dados**. Tenho experiência prática em projetos utilizando **HTML, CSS, JavaScript, Python e SQL**, e sou familiarizada com versionamento de código usando *Git/GitHub*.
 ---
 
 ## 🌟 Sobre Mim
