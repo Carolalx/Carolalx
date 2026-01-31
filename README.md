@@ -1,19 +1,21 @@
-# 👋 Oi, eu sou a Carol!
+👩‍💻 Carolalx – Desenvolvedora em Formação
 
+![GitHub followers](https://img.shields.io/github/followers/Carolalx?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Carolalx/ecommerce)
+![GitHub top language](https://img.shields.io/github/languages/top/Carolalx/ecommerce)
+![GitHub stars](https://img.shields.io/github/stars/Carolalx/ecommerce?style=social)
 > "Prefiro tentar e fracassar do que viver sem saber o que poderia ser."
 
-Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 11 anos em uma carreira estável, decidi seguir minha verdadeira paixão: **Desenvolvimento, Engenharia da Computação e Soluções Digitais para E-commerce**.
-
+Olá! Sou estudante de *Engenharia da Computação* com foco em *desenvolvimento web e análise de dados*. Tenho experiência prática em projetos utilizando *HTML, CSS, JavaScript, Python e SQL*, e sou familiarizada com versionamento de código usando *Git/GitHub*.
 ---
 
 ## 🌟 Sobre Mim
-
-- 🖥️ Migrando de carreira para Dev  
+  
 - 📚 Estudante de Engenharia da Computação  
 - 💡 Sempre buscando soluções criativas para problemas complexos  
-- 🔍 Curiosa por dados, análises, otimização de resultados e conversão  
+- 🔍 Curiosa por dados, análises, otimização de resultados e conversão, desenvolvimento web.  
 - 🛒 Experiência prática com **E-commerce, performance e automação de vendas**  
-- 🌐 Aprendizado e desenvolvimento com **Django** para aplicações web e back-end  
+- 🌐 Aprendizado e desenvolvimento com **Django e Vue** para aplicações web e back-end  
 
 ![Carol](https://github.com/user-attachments/assets/d57bbf89-001d-4214-b5d5-2724ed47262e)
 
@@ -29,18 +31,14 @@ Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 1
 ### **Programação & Lógica / Back-end**
 - Python ░░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥  
 - Django ░░░░░░░░░░ 65% ✅  
-- C / C# ░░░░░░░░░░ 60% 🔥🔥🔥🔥🔥  
-
-### **E-commerce & Performance Digital**
-- Plataformas (Shopify / WooCommerce) ░░░░░░░░░░ 80% ✅  
-- Integrações de Pagamento & Frete ░░░░░░░░░░ 75% ✅  
-- Otimização de Conversão (CRO) ░░░░░░░░░░ 70% ✅  
-- SEO Técnico para E-commerce ░░░░░░░░░░ 70% ✅  
-- Analytics & Métricas (GA / KPIs) ░░░░░░░░░░ 65% ✅  
+- C / C# ░░░░░░░░░░ 60% 🔥🔥🔥🔥🔥
+- Vue.js (iniciante)  
 
 ### **Ferramentas & Outros**
 - Linux ░░░░░░░░░░ 80% 🔥🔥🔥🔥🔥🔥🔥🔥  
 - VSCode / Anaconda ░░░░░░░░░░ 85% 🔥🔥🔥🔥🔥🔥 
+- DBeaver ░░░░░░ 60% 🔥🔥🔥🔥🔥🔥 
+- Postman (iniciante)
 
 ### **Preficiência em Inglês - B2**
 - Fala ░░░░░░░░░░ 70% 🔥🔥🔥🔥🔥🔥
@@ -96,4 +94,4 @@ Sou apaixonada por **tecnologia, desafios e aprendizado constante**. Depois de 1
 
 ---
 
-> 🚀 Pronta para aprender, crescer e criar soluções que unem **tecnologia, Django, dados e resultados reais em E-commerce**.
+> 🚀 Pronta para aprender, crescer e criar soluções.
