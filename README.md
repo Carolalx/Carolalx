@@ -3,19 +3,14 @@
 > "Prefiro tentar e fracassar do que viver sem saber o que poderia ser."
 
 
----
-
-Olá! Sou estudante de **Engenharia da Computação** com foco em **desenvolvimento web e análise de dados**. Tenho experiência prática em projetos utilizando **HTML, CSS, JavaScript, Python e SQL**, e sou familiarizada com versionamento de código usando **Git/GitHub**.
-
----
-
 ## 🌟 Sobre Mim
   
 - 📚 Estudante de Engenharia da Computação  
 - 💡 Sempre buscando soluções criativas para problemas complexos  
 - 🔍 Curiosa por dados, análises, otimização de resultados e conversão, desenvolvimento web.  
-- 🛒 Experiência prática com **E-commerce, performance e automação de vendas**  
-- 🌐 Aprendizado e desenvolvimento com **Django e Vue** para aplicações web e back-end  
+- 🌐 Experiência prática/prendizado com HTML, CSS, JavaScript, Python, SQL, desenvolvimento com **Django e Vue** para aplicações frontend e back-end
+- 🖥️ Familiarizada com versionamento de código usando **Git/GitHub**.
+
 
 ![Carol](https://github.com/user-attachments/assets/d57bbf89-001d-4214-b5d5-2724ed47262e)
 
