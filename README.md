@@ -1,12 +1,9 @@
 👩‍💻 Carolalx – Desenvolvedora em Formação
 
-![GitHub followers](https://img.shields.io/github/followers/Carolalx?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/Carolalx/ecommerce)
-![GitHub top language](https://img.shields.io/github/languages/top/Carolalx/ecommerce)
-![GitHub stars](https://img.shields.io/github/stars/Carolalx/ecommerce?style=social)
 > "Prefiro tentar e fracassar do que viver sem saber o que poderia ser."
 
-Olá! Sou estudante de *Engenharia da Computação* com foco em *desenvolvimento web e análise de dados*. Tenho experiência prática em projetos utilizando *HTML, CSS, JavaScript, Python e SQL*, e sou familiarizada com versionamento de código usando *Git/GitHub*.
+---
+Olá! Sou estudante de *"Engenharia da Computação** com foco em **desenvolvimento web e análise de dados**. Tenho experiência prática em projetos utilizando **HTML, CSS, JavaScript, Python e SQL**, e sou familiarizada com versionamento de código usando *Git/GitHub*.
 ---
 
 ## 🌟 Sobre Mim
