@@ -11,9 +11,7 @@
 - 🌐 Experiência prática/prendizado com HTML, CSS, JavaScript, Python, SQL, desenvolvimento com **Django e Vue** para aplicações frontend e back-end
 - 🖥️ Familiarizada com versionamento de código usando **Git/GitHub**.
 
-<div align=center>
-  ![Carol](https://github.com/user-attachments/assets/d57bbf89-001d-4214-b5d5-2724ed47262e)
-</div>
+<div align=center>![Carol](https://github.com/user-attachments/assets/d57bbf89-001d-4214-b5d5-2724ed47262e)</div>
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
