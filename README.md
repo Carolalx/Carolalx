@@ -96,3 +96,5 @@
 ---
 
 > 🚀 Pronta para aprender, crescer e criar soluções.
+
+![](https://komarev.com)
