@@ -101,5 +101,3 @@
 ---
 
 > 🚀 Pronta para aprender, crescer e criar soluções.
-
-![Visitas](https://komarev.com)
