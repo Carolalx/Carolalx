@@ -21,6 +21,11 @@
 
 
 ---
+![GitHub Stats](https://github-readme-stats-anurag.vercel.app/api?username=Carolalx&show_icons=true&theme=dark&hide=issues)
+![Top Langs](https://github-readme-stats-anurag.vercel.app/api/top-langs/?username=Carolalx&layout=compact&theme=dark)
+
+---
+
 
 ## 🛠️ Skills
 
