@@ -70,7 +70,7 @@
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 💰 Dashboard Financeiro | Sistema de análise e rebalanceamento de investimentos | [Ver Projeto](https://carolalx.github.io/educFinCah/) |
+| 💰 My Finances **em andamento 80% ✅**| Python, Flask, Postgres | [Ver Projeto](https://carolalx.github.io/educFinCah/](https://myfinances-ovwc.onrender.com/)) |
 | 🛒 Projeto E-commerce **em andamento 90% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
 | 🌐 Site Comércio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
 | 🌐 Site Fisio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://carolalx.github.io/Projeto-Fisio/) |
