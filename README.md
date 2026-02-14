@@ -72,7 +72,7 @@
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 💰 My Finances **em andamento 85% ✅**| Python, Flask, Postgres | [Ver Projeto](https://myfinances-a6ib.onrender.com)) |
+| 💰 My Finances **em andamento 85% ✅**| Python, Flask, Postgres | [Ver Projeto](https://myfinances-a6ib.onrender.com) |
 | 🛒 Projeto E-commerce **em andamento 90% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
 | 🌐 Site Comércio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
 | 🌐 Site Fisio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://carolalx.github.io/Projeto-Fisio/) |
