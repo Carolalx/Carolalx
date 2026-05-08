@@ -1,11 +1,10 @@
-👩‍💻 Carolalx – Desenvolvedora em Formação
+👩‍💻 Carolalx – Desenvolvedora
 
-> "Prefiro tentar e fracassar do que viver sem saber o que poderia ser."
+
 
 
 ## 🌟 Sobre Mim
   
-- 📚 Estudante de Engenharia da Computação  
 - 💡 Sempre buscando soluções criativas para problemas complexos  
 - 🔍 Curiosa por dados, análises, otimização de resultados e conversão, desenvolvimento web.  
 - 🌐 Experiência prática/prendizado com HTML, CSS, JavaScript, Python, SQL, desenvolvimento com **Django e Vue** para aplicações frontend e back-end
@@ -61,8 +60,7 @@
 - **2003–2012:** Primeiros passos profissionais na área administrativa  
 - **2013–2024:** Carreira estável no funcionalismo público  
 - **2023:** Decisão de mudar de carreira após reflexão pessoal  
-- **2024–Hoje:** Engenharia da Computação, desenvolvimento web, Django e E-commerce  
-- **Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, dados e vendas online**
+- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, dados e vendas online**
 
 ---
 
@@ -75,8 +73,6 @@
 | 💰 My Finances **em andamento 85% ✅**| Python, Flask, Postgres | [Ver Projeto](https://myfinances-a6ib.onrender.com) |
 | 🛒 Projeto E-commerce **em andamento 90% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
 | 🌐 Site Comércio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
-| 🌐 Site Fisio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://carolalx.github.io/Projeto-Fisio/) |
-
 
 
 ---
