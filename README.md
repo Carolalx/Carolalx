@@ -64,19 +64,6 @@
 
 ---
 
-## 📂 Projetos
-
-⌛**Aguarde as páginas carregarem...**⌛
-
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| 💰 My Finances **em andamento 85% ✅**| Python, Flask, Postgres | [Ver Projeto](https://myfinances-a6ib.onrender.com) |
-| 🛒 Projeto E-commerce **em andamento 90% ✅** | E-commerce desenvolvido em Python e **Django**| [Ver Projeto](https://ecommerce-2-xv45.onrender.com/) |
-| 🌐 Site Comércio | Site desenvolvido com HTML, CSS e JS | [Ver Projeto](https://ativafiltros.com.br) |
-
-
----
-
 ## 📊 GitHub Stats
 
 ![Last Commit](https://img.shields.io/github/last-commit/Carolalx/Carolalx?style=for-the-badge)
