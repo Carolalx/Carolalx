@@ -10,19 +10,6 @@
 - 🌐 Experiência prática/prendizado com HTML, CSS, JavaScript, Python, SQL, desenvolvimento com **Django e Vue** para aplicações frontend e back-end
 - 🖥️ Familiarizada com versionamento de código usando **Git/GitHub**.
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![DBeaver](https://img.shields.io/badge/DBeaver-1B5AA3?style=flat-square&logo=dbeaver&logoColor=white)
-![postgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-
-
----
-![GitHub Stats](https://github-readme-stats-anurag.vercel.app/api?username=Carolalx&show_icons=true&theme=dark&hide=issues)
-![Top Langs](https://github-readme-stats-anurag.vercel.app/api/top-langs/?username=Carolalx&layout=compact&theme=dark)
-
 ---
 
 
