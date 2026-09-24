@@ -54,8 +54,7 @@
 
 - **2003–2012:** Primeiros passos profissionais na área administrativa  
 - **2013–2024:** Carreira estável no funcionalismo público  
-- **2023:** Decisão de mudar de carreira após reflexão pessoal  
-- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, dados e vendas online**
+- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, investimentos, dados e vendas online**
 
 ---
 
@@ -68,9 +67,6 @@
 ## 🔗 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caroline-a-232a62333" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
   <a href="mailto:carolalxtt@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
