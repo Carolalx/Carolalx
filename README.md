@@ -53,8 +53,8 @@
 ## 🗓️ Timeline da Carreira
 
 - **2003–2012:** Primeiros passos profissionais na área administrativa  
-- **2013–2024:** Carreira estável no funcionalismo público  
-- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, investimentos, dados e vendas online**
+- **2013–2024:** Funcionalismo público  
+- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, investimentos e dados**
 
 ---
 
