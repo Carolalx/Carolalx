@@ -1,6 +1,4 @@
-👩‍💻 Carolalx – Desenvolvedora
-
-
+👩‍💻 Carolalx – Desenvolvedora <br>
 
 
 ## 🌟 Sobre Mim
@@ -40,21 +38,23 @@
 - DBeaver ░░░░░░ 60% 🔥🔥🔥🔥🔥🔥 
 - Postman (iniciante)
 
-### **Preficiência em Inglês **
+---
 
-**C1** 
+## 🌐 **Preficiência em Inglês **
+
+**🥇 C1** 
 - Leitura .... ░░░░░░░░░░░░ 85% 🔥🔥🔥🔥🔥🔥🔥🔥
 
-**B2** 
+**🥈 B2** 
 - Fala .....   ░░░░░░░░ 70% 🔥🔥🔥🔥🔥🔥
 - Escuta ...   ░░░░░░░░░░ 80% 🔥🔥🔥🔥🔥🔥🔥
 - Escrita ..   ░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥
 - Vocabulário  ░░░░░░░░░░ 80% 🔥🔥🔥🔥🔥🔥🔥🔥
-  
-<p align="center">
-  <a href="https://cert.efset.org/en/score/certificate/57" target="_blank">
-  </a>
-</p>  
+
+##🏆 [Certificado de Proficiência EF SET](https://cert.efset.org/en/score/certificate/57)
+
+
+
 
 
 ---
