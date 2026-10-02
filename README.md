@@ -1,11 +1,11 @@
-👩‍💻 Carolalx – Desenvolvedora <br>
-
+# 👩‍💻 Carolalx – 🎓 Ciência da Computação | 3º Período
 
 ## 🌟 Sobre Mim
-  
+
 - 💡 Sempre buscando soluções criativas para problemas complexos  
+- 📊 Especialista em Planilhas e Automação de Dados. Atuo na construção de arquiteturas de dados eficientes em Excel e Google Sheets, utilizando fórmulas avançadas, tabelas dinâmicas e automações via VBA e Google Apps Script. Foco em eficiência operacional, limpeza de dados (data cleansing) e integração de ferramentas.
 - 🔍 Curiosa por dados, análises, otimização de resultados e conversão, desenvolvimento web.  
-- 🌐 Experiência prática/prendizado com HTML, CSS, JavaScript, Python, SQL, desenvolvimento com **Django e Vue** para aplicações frontend e back-end
+- 🌐 Experiência prática/aprendizado com HTML, CSS, JavaScript, Python, SQL, desenvolvimento com **Django e Vue** para aplicações frontend e back-end
 - 🖥️ Familiarizada com versionamento de código usando **Git/GitHub**.
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -51,19 +51,15 @@
 - Escrita ..   ░░░░░░░░░ 75% 🔥🔥🔥🔥🔥🔥🔥
 - Vocabulário  ░░░░░░░░░░ 80% 🔥🔥🔥🔥🔥🔥🔥🔥
 
-##🏆 [Certificado de Proficiência EF SET](https://cert.efset.org/en/score/certificate/57)
-
-
-
-
+##🏆 [Certificado de Proficiência EF SET](https://cert.efset.org/Wqdzg5)
 
 ---
 
 ## 🗓️ Timeline da Carreira
 
 - **2003–2012:** Primeiros passos profissionais na área administrativa  
-- **2013–2024:** Funcionalismo público  
-- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, investimentos e dados**
+- **2013–2024:** Segurança Pública 🚔  
+- **2024–Hoje:** Desenvolvimento de projetos próprios focados em **tecnologia, investimentos e dados** 💻
 
 ---
 
